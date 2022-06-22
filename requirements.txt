@@ -26,7 +26,7 @@ jupyter-client==6.1.6
 jupyter-core==4.6.3
 jupyter-dash==0.3.0
 MarkupSafe==1.1.1
-numpy==1.19.1
+numpy==1.22.0
 pandas==1.1.0
 parso==0.7.1
 pexpect==4.8.0
